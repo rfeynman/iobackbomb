@@ -1,7 +1,9 @@
 '''
 Created on Apr 15, 2017
 
-@author: wange
+@author:  Erdong Wang
+with update
+Draw the ion distribution on the cathode. The file generate by the GPT ionizer function. detail see GPT Fold in linux.
 '''
 
 
